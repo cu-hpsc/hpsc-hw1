@@ -1,5 +1,7 @@
 # HW1: Experiments in Vectorization
-## Due: 2019-09-16 (Monday)
+## Due: 2019-09-16 (Monday); part 2 due 2019-09-13 (Friday)
+
+Click to [accept this assignment](https://classroom.github.com/a/DOC_yYu2).
 
 ## Dot products
 
